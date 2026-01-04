@@ -13,6 +13,7 @@ h2 {
 h3 {
 
     border-style: solid;
+    border-color: rgb(130, 211, 64);
     color: rgb(135, 150, 5);
     width: 200px;
     margin-left: 350px;
@@ -33,6 +34,10 @@ a {
     border-radius: 10px;
     gap: 20px;
     align-items: flex-start;
+    border-style: solid;
+    border-color: red;
+    margin-bottom: 20px;
+
 }
 
 .photo-section {
